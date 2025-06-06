@@ -42,7 +42,7 @@
  
  <b>Visitor's Count</b>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{SULA-MD}/count.svg" alt="SULA-MD/SULA-MD :: Visitor's Count" old_src="https://profile-counter.glitch.me/{SULA-MD}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{SULA𝙺𝚂𝙷𝙰-MD}/count.svg" alt="SULA𝙺𝚂𝙷𝙰-MD/SULA-MD :: Visitor's Count" old_src="https://profile-counter.glitch.me/{SULA𝙺𝚂𝙷𝙰-MD}/count.svg" /></p>
 
 <hr>
 
