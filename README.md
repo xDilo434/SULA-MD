@@ -19,7 +19,7 @@
 
 <br>
 
-![forks](https://img.shields.io/github/forks/SULA-MD-NEW/SULA-MD?label=Forks&style=social)            ![stars](https://img.shields.io/github/stars/SULA-MD/SULA-MD?style=social)
+![forks](https://img.shields.io/github/forks/SULA-MD-NEW/SULA-MD?label=Forks&style=social)            ![stars](https://img.shields.io/github/stars/SULA-MD-NEW/SULA-MD?style=social)
 
 <p align="center">
   <a href="https://github.com/SULA-MD-NEW/SULA-MD">
